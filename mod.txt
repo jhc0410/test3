@@ -1,0 +1,6 @@
+#include<stdio.h>
+#define A B
+int main(int argc__,char** argv__){
+printf("hello World\n");
+return 0;
+}

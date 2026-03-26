@@ -1,0 +1,8 @@
+total 11
+drwxr-xr-x 1 YUHAN 197121   0 Mar 26 13:21 ./
+drwxr-xr-x 1 YUHAN 197121   0 Mar 25 11:38 ../
+-rw-r--r-- 1 YUHAN 197121   1 Mar 26 13:21 .txt
+-rw-r--r-- 1 YUHAN 197121 107 Mar 19 13:18 mod.txt
+-rw-r--r-- 1 YUHAN 197121  75 Mar 19 13:17 org.txt
+-rw-r--r-- 1 YUHAN 197121   0 Mar 26 13:21 t.txt
+drwxr-xr-x 1 YUHAN 197121   0 Mar 19 15:32 test1/
